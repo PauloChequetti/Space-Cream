@@ -1,4 +1,5 @@
-# Explorer 03 - Desafio 04/05
+# Desafio 03, Nível 03 - Explorer
+
 No último desafio do nível 03 do programa Explorer foi proposto pra nós alunos recriarmos o layout abaixo utilizando o Figma seguindo regras de mobile-first e responsividade. <br>
 
 Link Figma mobile: https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First?node-id=0%3A1<br>
